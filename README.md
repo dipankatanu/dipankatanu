@@ -10,15 +10,15 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=dipankatanu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count">
 </p>
 
 ---
 
-### My GitHub Statistics
+### 📊 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-glow" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-glow" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dipankatanu&layout=compact&theme=vision-glow&hide_progress=false" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dipankatanu&show_icons=true&theme=vision-glow&count_private=true" alt="GitHub Stats" />
 </p>
