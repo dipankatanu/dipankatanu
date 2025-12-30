@@ -18,7 +18,7 @@ _Postdoctoral Researcher • Computational Biologist • Systems Biomedicine_
 
 ## About Me
 
-I am **Dr. Dipanka Tanu Sarmah**, a postdoctoral researcher at **RCSI (Ireland)** focusing on **multi-omics systems biology of neurodegeneration and cancer**.
+I am **Dr. Dipanka Tanu Sarmah**, a postdoctoral researcher at **RCSI (Ireland)** focusing on **multi-omics systems biology of Parkinson’s disease**.
 
 Core areas of work and expertise:
 
