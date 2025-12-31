@@ -72,4 +72,4 @@ To build **open-source, automation-ready systems biology and spatial modeling to
 ---
 
 > "Open science is not just code- it is clarity, reproducibility, and narrative."
-> — **Dipanka**
+>  **Dipanka**
