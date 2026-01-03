@@ -48,6 +48,7 @@ My goal is to transform complex datasets into **interpretable biological models,
 <img src="https://img.shields.io/badge/igraph-FF4081?style=for-the-badge">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/Ollama/LLM-RAG-8E44AD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=white&style=for-the-badge">
 </p>
 
 ---
